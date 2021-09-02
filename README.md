@@ -15,7 +15,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="90" height="30"/> </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vipa4ka&theme=tokyonight&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vipa4ka&theme=tokyonight&show_icons=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipa4ka&theme=tokyonight&layout=compact)
 

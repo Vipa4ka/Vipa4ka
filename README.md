@@ -1,7 +1,7 @@
-<h1 align="left">Hi there👋, I'm Elena Ilieva</h1>
-<!-- <h3 align="center">A frontend developer from Ukraine</h3> -->
-
 ![](https://komarev.com/ghpvc/?username=your-github-Vipa4ka)
+
+<h1 align="left">Hi there👋, I'm Elena Ilieva</h1>
+<h3 align="center">A junior frontend developer from Ukraine</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

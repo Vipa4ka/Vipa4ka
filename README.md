@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Elena Ilieva</h1>
+<h1 align="left">Hi there👋, I'm Elena Ilieva</h1>
 <!-- <h3 align="center">A frontend developer from Ukraine</h3> -->
 
 <h3 align="left">Languages and Tools:</h3>

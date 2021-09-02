@@ -1,6 +1,8 @@
 <h1 align="left">Hi there👋, I'm Elena Ilieva</h1>
 <!-- <h3 align="center">A frontend developer from Ukraine</h3> -->
 
+![](https://komarev.com/ghpvc/?username=your-github-Vipa4ka)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -16,8 +18,6 @@
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="90" height="30"/> </a>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vipa4ka&theme=tokyonight&show_icons=true) -->
- 
- 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipa4ka&theme=tokyonight&layout=compact)
 

@@ -19,6 +19,8 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vipa4ka&theme=tokyonight&show_icons=true) -->
 
+<a href="https://www.codewars.com/users/Vipa4ka"><img src="https://www.codewars.com/users/Vipa4ka/badges/large" alt="Codewars"/></a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipa4ka&theme=tokyonight&layout=compact)
 
 <h3 align="left">Contact with me:</h3>
